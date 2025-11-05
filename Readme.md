@@ -1,4 +1,5 @@
 # New Project
 This project was created from local system.
-prepared by Muhammad Jalal Momand
+prepared by Muhammad Jalal Momand.
+Thanks to Shradha Khapra.
 
